@@ -1,1 +1,1 @@
-https://github.com/wqzert/posmotri-v-okno-ad
+https://github.com/Industryi/posmotri-v-okno-ad
